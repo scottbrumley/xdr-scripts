@@ -1,0 +1,1 @@
+{"name":"grabarchive","description":null,"outcome":"Standard","platform":"Windows,Linux,macOS","timeout":600,"entry_point":"getAndCompress","entry_point_definition":{"input_params":[{"name":"folder","type":"string"}],"output_params":{"type":"primitive","value":{"type":"auto_detect"}}}}
